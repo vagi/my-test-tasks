@@ -1,4 +1,4 @@
-# My test tasks
+# My collection of test tasks
 ### Test Tasks that I was proposed to complete for interviews.
 
 - Implement a classification in the **TensorFlow** framework for the attached dataset (*TensorFlow Speech Recognition Challenge*). The dataset includes a set of recorded short commands or some random noise.
